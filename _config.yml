@@ -1,0 +1,24 @@
+name: tankette
+layout_spectrum: 0.8091125996867542
+typography_spectrum: 0.6988215996490529
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.588594152262036
+  lightness: 0.5801064812537647
+  saturation: 0.8190932167627352
+  rhythmicContrast: 0.8591251188063183
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
