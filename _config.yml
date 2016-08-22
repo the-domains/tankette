@@ -1,35 +1,6 @@
-name: 'Tankette #451'
-favicon: null
-layout_spectrum: 0.87933
 typography_spectrum: 0.39379558502696455
 content_rating:
   adult: false
-author:
-  name: ''
-  url: ''
-  email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e327044-a5a8-43ad-951d-a40c11bd0841.png
-navigation:
-  - name: BCRD Official Page
-    url: 'http://bearcityrollerderby.com/en/'
-    type: external
-  - name: My derby kisses
-    id: 43ed3121-659a-4777-8f99-24bf6d089422
-    type: content
-title: ''
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#3e3e3e'
@@ -41,4 +12,34 @@ color:
   lightness: 0
   saturation: 0.875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: ''
+  appId: ''
+layout_spectrum: 0.87933
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: ''
+  url: ''
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e327044-a5a8-43ad-951d-a40c11bd0841.png
+name: 'Tankette #451'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: BCRD Official Page
+    url: 'http://bearcityrollerderby.com/en/'
+    type: external
+  - name: My derby kisses
+    id: 43ed3121-659a-4777-8f99-24bf6d089422
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b5841e2-0ac8-4b25-9dbd-2d98fb0360db.png
+title: ''
 purpose: []
