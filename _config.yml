@@ -1,6 +1,6 @@
-name: tankette
-layout_spectrum: 0.8091125996867542
 typography_spectrum: 0.6988215996490529
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#DC3522'
@@ -12,3 +12,19 @@ color:
   lightness: 0.5801064812537647
   saturation: 0.8190932167627352
   rhythmicContrast: 0.8591251188063183
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.8091125996867542
+author:
+  name: ''
+  url: ''
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02bf0e4e-07e6-4e98-afe2-cb0c0cf912a7.jpg
+name: 'Tankette #451'
+navigation:
+  - name: Bear City Roller Derby
+    url: 'http://bearcityrollerderby.com/en/'
+    type: external
+title: Bear City Roller Derby
