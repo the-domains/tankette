@@ -27,4 +27,7 @@ navigation:
   - name: Bear City Roller Derby
     url: 'http://bearcityrollerderby.com/en/'
     type: external
+  - name: My derby kisses
+    id: 43ed3121-659a-4777-8f99-24bf6d089422
+    type: content
 title: ''
