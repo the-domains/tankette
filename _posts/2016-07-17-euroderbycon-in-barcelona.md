@@ -1,14 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4971c5c-629a-4467-8f8b-89d0e8b08f9c.jpg
 inLanguage: null
 keywords: []
 description: 'Derby, derby, beer, derby, sangria, derby, dancing, derby, beer and death.'
-datePublished: '2016-08-22T10:23:42.062Z'
-dateModified: '2016-08-22T10:23:26.323Z'
+datePublished: '2016-08-22T10:24:43.878Z'
+dateModified: '2016-08-22T10:24:39.763Z'
 author: []
 title: Euroderbycon in Barcelona
 sourcePath: _posts/2016-07-17-euroderbycon-in-barcelona.md
@@ -20,6 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
+url: euroderbycon-in-barcelona/index.html
 _context: 'http://schema.org'
 _type: Article
 
