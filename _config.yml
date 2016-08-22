@@ -1,28 +1,15 @@
-layout_spectrum: 0.3100721212103963
+name: 'Tankette #451'
+favicon: null
+layout_spectrum: 0.87933
 typography_spectrum: 0.39379558502696455
-color:
-  brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-  brandStrength: 0.003053602995350957
-  lightness: 0.1315453175920993
-  saturation: 0.5004736899863929
-  rhythmicContrast: 0.5647860572207719
 content_rating:
   adult: false
-opengraph:
-  type: ''
-  appId: ''
 author:
   name: ''
   url: ''
   email: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e327044-a5a8-43ad-951d-a40c11bd0841.png
-name: 'Tankette #451'
 navigation:
   - name: BCRD Official Page
     url: 'http://bearcityrollerderby.com/en/'
@@ -31,3 +18,27 @@ navigation:
     id: 43ed3121-659a-4777-8f99-24bf6d089422
     type: content
 title: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#3e3e3e'
+    - '#ffffff'
+    - '#bb3739'
+    - '#b7b7b7'
+    - '#050505'
+  brandStrength: 0.0625
+  lightness: 0
+  saturation: 0.875
+  rhythmicContrast: 0.25
+purpose: []
