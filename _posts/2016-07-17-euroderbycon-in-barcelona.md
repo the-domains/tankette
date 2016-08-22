@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Derby, derby, beer, derby, sangria, derby, dancing, derby, beer and death.'
-datePublished: '2016-08-22T10:24:43.878Z'
-dateModified: '2016-08-22T10:24:39.763Z'
+datePublished: '2016-08-22T10:31:25.779Z'
+dateModified: '2016-08-22T10:25:55.646Z'
 author: []
 title: Euroderbycon in Barcelona
 sourcePath: _posts/2016-07-17-euroderbycon-in-barcelona.md
