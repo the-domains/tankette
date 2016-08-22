@@ -3,18 +3,17 @@ description: >-
   In derby you sometimes get hit in the game and develop a bruise. These bruises
   are called derby kisses. Our little badges of honour and visible markers of
   our toughness.
-dateModified: '2016-08-22T09:37:54.936Z'
-datePublished: '2016-08-22T09:38:27.612Z'
+dateModified: '2016-08-22T09:38:52.585Z'
+datePublished: '2016-08-22T09:38:53.169Z'
 title: Derby kisses
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-derby-kisses.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: derby-kisses/index.html
+_type: Blurb
 
 ---
 # Derby kisses
